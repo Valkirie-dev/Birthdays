@@ -1,4 +1,4 @@
-image::images/img.png[width=100%]
+image::images/img1.png[width=100%]
 
 = Anhelina Birthday Gift Quiz
 
@@ -14,4 +14,4 @@ ifdef::env-name[:relfilesuffix: .adoc]
 
 ====
 
-image::images/img.png[width=100%]
+image::images/img1.png[width=100%]
