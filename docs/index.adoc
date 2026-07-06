@@ -1,8 +1,8 @@
-image::images/img1.jpg[width=100%]
+image::images/img.jpg[width=100%]
 
-= Anhelina Birthday Gift Quiz
+= Birthdays greeting pages
 
-View page below
+View pages below
 
 ====
 
@@ -14,4 +14,4 @@ ifdef::env-name[:relfilesuffix: .adoc]
 
 ====
 
-image::images/img1.jpg[width=100%]
+image::images/img.jpg[width=100%]
